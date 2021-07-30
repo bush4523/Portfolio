@@ -96,10 +96,6 @@ aside ul {
   object-fit: cover;
 }
 
-section {
-  margin-bottom: 20px;
-}
-
 section:nth-of-type(1) {
   background-color: #ecf0f0;
   grid-area: section1;
